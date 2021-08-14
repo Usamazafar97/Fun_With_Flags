@@ -11,5 +11,6 @@ class QuizQuestionsActivity : AppCompatActivity() {
         val questionsList = Constants.getQuestions()
 
         Log.i("Questions List size","${questionsList.size}")
+
     }
 }
