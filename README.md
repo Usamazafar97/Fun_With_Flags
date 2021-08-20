@@ -13,7 +13,7 @@ Thank you very much and welcome to fun with flags !!
 # 1. Information Screen
 
 The following screen is for getting the name of the player
-![User Page](https://user-images.githubusercontent.com/34195406/130226240-f416caeb-bc0e-4e53-bc36-dd905e1e00ab.png)
+<img src="https://user-images.githubusercontent.com/34195406/130226240-f416caeb-bc0e-4e53-bc36-dd905e1e00ab.png" width="400" height="600">
 
 # 2. Question 
 This is the question that the player has to guess
