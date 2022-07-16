@@ -1,4 +1,4 @@
-# Fun_With_Flags
+# Fun With Flags [Spaß mit Flaggen]
 Do you need an effective and fun way to learn all the flags of the world and its capitals? With this trivia you will get it in a few hours, in addition to having a good time.
 Simple and educational quiz, learn the flags of the countries of the world.It asks for a flag and you must give the correct answer.
 With this trivia of country and capital flags you will have fun and entertaining times.
