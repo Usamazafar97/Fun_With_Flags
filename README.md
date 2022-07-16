@@ -8,6 +8,18 @@ Fun with flags is totally free, if you feel like it and you like it, you could p
 Any questions or suggestions you can write to my personal email osamazafar97@gmail.com I will be happy to assist you !!
 Thank you very much and welcome to fun with flags !!
 
+German Translation
+
+Benötigen Sie eine effektive und unterhaltsame Möglichkeit, alle Flaggen der Welt und ihrer Hauptstädte zu lernen? Mit dieser Kleinigkeit werden Sie es in ein paar Stunden verstehen, zusätzlich zu einer guten Zeit.
+Einfaches und lehrreiches Quiz, lerne die Flaggen der Länder der Welt. Es fragt nach einer Flagge und du musst die richtige Antwort geben.
+Mit diesem Trivia von Länder- und Hauptstadtflaggen werden Sie lustige und unterhaltsame Zeiten haben.
+
+Mit Flag Fun lernen Sie auf spielerische Weise alle Flaggen der Länder der Welt kennen. Fast mühelos werden Sie in der Lage sein, sie alle zu erraten und die höchste Punktzahl zu erzielen.
+Spaß mit Flaggen ist völlig kostenlos, wenn du Lust hast und es dir gefällt, kannst du gerne eine positive Bewertung abgeben :)
+Bei Fragen oder Anregungen können Sie an meine persönliche E-Mail-Adresse osamazafar97@gmail.com schreiben. Ich werde Ihnen gerne behilflich sein !!
+Vielen Dank und willkommen zum Spaß mit Flaggen !!
+
+
 ## Application Flow
 
 # 1. Information Screen
