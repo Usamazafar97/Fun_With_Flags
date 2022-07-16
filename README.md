@@ -24,30 +24,26 @@ Vielen Dank und willkommen zum Spaß mit Flaggen !!
 
 # 1. Information Screen [Informationsbildschirm]
 
-The following screen is for getting the name of the player.[Der folgende Bildschirm dient zum Abrufen des Namens des Spielers.]<br />
+The following screen is for getting the name of the player. [Der folgende Bildschirm dient zum Abrufen des Namens des Spielers.]<br />
 
 <img src="https://user-images.githubusercontent.com/34195406/130226240-f416caeb-bc0e-4e53-bc36-dd905e1e00ab.png" width="400" height="700">
 
 # 2. Question 
-This is the question that the player has to guess.<br />
+This is the question that the player has to guess. [Diese Frage muss der Spieler erraten.]<br />
 
-Diese Frage muss der Spieler erraten.<br />
 <img src="https://user-images.githubusercontent.com/34195406/130226791-1598f6cb-2b58-44e9-ba65-fe9ce5c69e46.png" width="400" height="700">
 
 # 3. Correct Answer
-Lets say the player guessed the correct answer.<br />
+Lets say the player guessed the correct answer. [Nehmen wir an, der Spieler hat die richtige Antwort erraten.]<br />
 
-Nehmen wir an, der Spieler hat die richtige Antwort erraten.<br />
 <img src="https://user-images.githubusercontent.com/34195406/130226854-8a572660-db51-4cf7-9d10-3ac656590f08.png" width="400" height="700">
 
 # 4. Wrong Answer
-Incase the player guessed the wrong answer.<br />
+Incase the player guessed the wrong answer. [Falls der Spieler die falsche Antwort erraten hat.]<br />
 
-Falls der Spieler die falsche Antwort erraten hat.<br />
 <img src="https://user-images.githubusercontent.com/34195406/130226943-4f251f30-b07c-4547-be9e-eabaec3c2953.png" width="400" height="700">
 
 # 5. Result
-The result of the Quiz.<br />
+The result of the Quiz. [Das Ergebnis des Quiz.]<br />
 
-Das Ergebnis des Quiz.<br />
 <img src="https://user-images.githubusercontent.com/34195406/130227027-d684a9c0-a03b-4c2f-a92f-089a4787402a.png" width="400" height="700">
