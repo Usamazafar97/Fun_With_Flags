@@ -20,13 +20,11 @@ Bei Fragen oder Anregungen können Sie an meine persönliche E-Mail-Adresse osam
 Vielen Dank und willkommen zum Spaß mit Flaggen !!
 
 
-## Application Flow
+## Application Flow [Anwendungsablauf]
 
-# 1. Information Screen
+# 1. Information Screen [Informationsbildschirm]
 
-The following screen is for getting the name of the player.<br />
-
-Der folgende Bildschirm dient zum Abrufen des Namens des Spielers.<br />
+The following screen is for getting the name of the player.[Der folgende Bildschirm dient zum Abrufen des Namens des Spielers.]<br />
 
 <img src="https://user-images.githubusercontent.com/34195406/130226240-f416caeb-bc0e-4e53-bc36-dd905e1e00ab.png" width="400" height="700">
 
